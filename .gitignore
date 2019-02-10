@@ -1,0 +1,10 @@
+/node_modules
+/target
+test.coffee
+/public/js
+/public/stylesheets
+newrelic_agent.log
+dump.rdb
+test/integration/screenshots
+.DS_Store
+env.sh

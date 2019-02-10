@@ -1,0 +1,35 @@
+{
+  "name": "shipit-api",
+  "version": "0.0.1",
+  "description": "Shipit API on Node",
+  "main": "web.js",
+  "scripts": {
+    "postinstall": "grunt"
+  },
+  "engines": {
+    "node": "8.11.3",
+    "npm": "6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sailrish/shipit-api"
+  },
+  "author": "shiprack",
+  "license": "BSD",
+  "dependencies": {
+    "logfmt": "1.2.0",
+    "express": "4.16.2",
+    "serve-favicon": "2.4.5",
+    "body-parser": "1.18.2",
+    "coffeescript": "2.1.1",
+    "underscore": "1.8.3",
+    "shipit": "1.2.0",
+    "grunt": "1.0.1",
+    "grunt-cli": "1.2.0",
+    "grunt-contrib-coffee": "0.x.x",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-clean": "1.1.0",
+    "grunt-foreman": "~0.0.5",
+    "grunt-shell-spawn": "0.3.10"
+  }
+}
