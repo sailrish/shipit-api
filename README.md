@@ -30,3 +30,8 @@ $ npm install
 $ grunt
 $ node target/app.js
 ```
+The app is also deployed on Heroku. Here's an example:
+```
+http://shipit-api.herokuapp.com/api/carriers/usps/9374889707090557179658
+http://shipit-api.herokuapp.com/api/guess/1ZV5E9420444964064
+```
